@@ -1,3 +1,5 @@
+export PATH="$PATH:$HOME/Library/Application Support/JetBrains/Toolbox/scripts"
+
 export ZSH="$HOME/.oh-my-zsh"
 
 ZSH_THEME="gallois"
