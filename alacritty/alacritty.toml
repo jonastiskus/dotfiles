@@ -1,0 +1,15 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/city-lights.toml"
+]
+
+[window]
+padding = { x = 2, y = 2 }
+title = "terminal"
+dynamic_title = true
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" } 
+size = 13
+
+

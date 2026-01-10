@@ -1,0 +1,32 @@
+# City Lights theme for Alacritty (TOML)
+[colors.primary]
+background = "#1d252c"
+foreground = "#b7c5d3"
+
+[colors.cursor]
+text = "#1d252c"
+cursor = "#b7c5d3"
+
+[colors.selection]
+text = "#1d252c"
+background = "#5ec4ff"
+
+[colors.normal]
+black   = "#333f4a"
+red     = "#d95468"
+green   = "#8bd49c"
+yellow  = "#ebbf83"
+blue    = "#539afc"
+magenta = "#b62d65"
+cyan    = "#70e1e8"
+white   = "#b7c5d3"
+
+[colors.bright]
+black   = "#41505e"
+red     = "#d95468"
+green   = "#8bd49c"
+yellow  = "#ebbf83"
+blue    = "#5ec4ff"
+magenta = "#b62d65"
+cyan    = "#70e1e8"
+white   = "#ffffff"
