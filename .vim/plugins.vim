@@ -14,4 +14,4 @@ function! s:ensure(repo)
   execute 'set runtimepath+=' . fnameescape(path)
 endfunction
 
-call s:ensure('cschlueter/vim-wombat')
+call s:ensure('machakann/vim-highlightedyank.git')
