@@ -15,3 +15,4 @@ function! s:ensure(repo)
 endfunction
 
 call s:ensure('machakann/vim-highlightedyank.git')
+call s:ensure('tpope/vim-commentary.git')
